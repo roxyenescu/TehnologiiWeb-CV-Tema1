@@ -1,0 +1,171 @@
+.div_1{
+    background-image: url("scoici.jpg");
+    display: inline-block;
+    width: 100%;
+    height: 100vh;
+}
+
+.unu {
+    color: #25316D;
+    text-align: center;
+    font-size: 120px;
+    padding-top: 250px;
+    font-family: "Brush Script MT", cursive;
+}
+
+.doi {
+    color: #25316D;
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 300px;
+    font-family: "Georgia", serif;
+}
+
+.puncte {
+    border-top: 25px dotted #25316D;
+    width: 15%;
+}
+
+.div_2 {
+    display: inline-block;
+    width: 100%;
+    height: 100vh;
+}
+
+.trei {
+    color: #25316D;
+    text-align: center;
+    font-size: 50px;  
+    font-family: "Georgia", serif;
+}
+
+.poza_profil {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px; 
+}
+
+.patru {
+    padding-top: 60px;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Georgia", serif;
+}
+
+.div_3 {
+    background-color: #D8D9CF;
+    display: inline-block;
+    width: 100%;
+    height: 100vh;
+}
+
+.cinci {
+    color: #25316D;
+    text-align: center;
+    font-size: 50px;  
+    font-family: "Georgia", serif;
+}
+
+.sase {
+    font-size: 20px;
+    font-family: "Georgia", serif;
+    color: #25316D;
+}
+
+.sapte {
+    font-size: 20px;
+    font-family: "Georgia", serif;
+}
+
+.poza_skill_1 {
+    float: left;
+    width: 150px;
+    height: 150px;
+}
+
+.poza_skill_2 {
+    float: right;
+    width: 150px;
+    height: 150px;
+}
+
+.opt {
+    font-size: 20px;
+    font-family: "Georgia", serif;
+    text-align: right;
+    color: #25316D;
+}
+
+.zece {
+    font-size: 20px;
+    font-family: "Georgia", serif;
+    color: #25316D;
+}
+
+.noua {
+    font-size: 20px;
+    text-align: right;
+    font-family: "Georgia", serif;
+}
+
+.unsprezece {
+    font-size: 20px;
+    font-family: "Georgia", serif;
+}
+
+.div_4 {
+    display: inline-block;
+    width: 100%;
+    height: 30vh;
+}
+
+.doisprezece {
+    color: #25316D;
+    text-align: center;
+    font-size: 50px;  
+    font-family: "Georgia", serif;
+}
+
+.buton {
+    background-color: #25316D;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-family: "Georgia", serif;
+    display: inline-block; 
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+    border-radius: 40px;
+    
+}
+
+.div_5 {
+    background-color: #D8D9CF;
+    display: inline-block;
+    width: 100%;
+    height: 30vh;
+}
+
+.links {
+    text-align: center;
+    font-family: "Georgia", serif;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.nume {
+    font-family: OpenSans!important;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 80px;
+}
+
+
+
+
+
